@@ -1,0 +1,14 @@
+F:\Đề tài desktop\s6-s10\s6-s10\bin\Debug\s6-s10.exe.config
+F:\Đề tài desktop\s6-s10\s6-s10\bin\Debug\s6-s10.exe
+F:\Đề tài desktop\s6-s10\s6-s10\bin\Debug\s6-s10.pdb
+F:\Đề tài desktop\s6-s10\s6-s10\obj\Debug\s6-s10.csproj.AssemblyReference.cache
+F:\Đề tài desktop\s6-s10\s6-s10\obj\Debug\s6_s10.frmPrintPreview.resources
+F:\Đề tài desktop\s6-s10\s6-s10\obj\Debug\s6_s10.frmHoaDonBanHang.resources
+F:\Đề tài desktop\s6-s10\s6-s10\obj\Debug\s6_s10.Properties.Resources.resources
+F:\Đề tài desktop\s6-s10\s6-s10\obj\Debug\s6-s10.csproj.GenerateResource.cache
+F:\Đề tài desktop\s6-s10\s6-s10\obj\Debug\s6-s10.csproj.CoreCompileInputs.cache
+F:\Đề tài desktop\s6-s10\s6-s10\obj\Debug\s6-s10.exe
+F:\Đề tài desktop\s6-s10\s6-s10\obj\Debug\s6-s10.pdb
+F:\Đề tài desktop\s6-s10\s6-s10\obj\Debug\s6_s10.frmChiTietDonHang.resources
+F:\Đề tài desktop\s6-s10\s6-s10\obj\Debug\s6_s10.frmNhomMatHang.resources
+F:\Đề tài desktop\s6-s10\s6-s10\obj\Debug\s6_s10.frmDanhSachMatHang.resources
